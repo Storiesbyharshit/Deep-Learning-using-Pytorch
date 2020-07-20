@@ -8,3 +8,9 @@ Pytorch : PyTorch is an open source machine learning library based on the Torch 
   
  
 </p>
+
+<p align="center">
+  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  
+ 
+</p>
